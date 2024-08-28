@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Rishit's First CS 193 Homework
+// Created GitHub account and submitted username - 3 points
+// Created website through GitHub pages - 2 points
+// Title of website - 1 point
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +28,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Bulleted list:
+- It's an easy and interactive class
+- The ice breakers at the start of the class are fun
+- The instructors are amazing and super helpful
+// List exists and is bulleted - 2 points
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
